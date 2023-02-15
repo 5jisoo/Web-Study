@@ -6,4 +6,4 @@
 | --------------------------------------------------------- | ----------------------- | -------- |
 | 오카다 다쿠미 - `모던 자바스크립트로 배우는 리액트 입문`  | `helloJS` `hello-react` | 230106 ~ |
 | [바닐라 코딩](https://book.vanillacoding.co/starter-kit/) | `vanilla-coding`        | 230106 ~ |
-| 노마드 코더 - `바닐라 JS로 크롬 앱 만들기`                | `momentum`              | 230115 ~ |
+| 노마드 코더 - `바닐라 JS로 크롬 앱 만들기`   [완성작](https://5jisoo.github.io/momentum.github.io/)                | `momentum`              | 230115 ~ |
