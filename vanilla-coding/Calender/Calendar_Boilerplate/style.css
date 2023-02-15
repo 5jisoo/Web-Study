@@ -10,3 +10,13 @@ h1 {
   text-align: center;
   font-size: 72px;
 }
+
+#calendar {
+  margin: auto;
+  text-align: center;
+}
+
+#calendar table {
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+}

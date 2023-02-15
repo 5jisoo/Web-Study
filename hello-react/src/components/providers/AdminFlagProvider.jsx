@@ -2,7 +2,7 @@
 
 import { createContext } from "react";
 
-// 인수로 디폴트 값 설정 간으: 여기서는 빈 객체 사용
+// 인수로 디폴트 값 설정 가능: 여기서는 빈 객체 사용
 export const AdminFlagContext = createContext({});
 
 export const AdminFlagProvider = (props) => {
